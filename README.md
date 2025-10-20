@@ -205,7 +205,7 @@ The CSV contains columns: `Coupon Code`, `Created At`.
 MIT — feel free to use and modify.
 
 
-THE OUTPUT
+## THE OUTPUT
 
 
 <img width="542" height="503" alt="image" src="https://github.com/user-attachments/assets/ce8b8287-9607-42cf-aaee-1e0f15b63ae9" />
