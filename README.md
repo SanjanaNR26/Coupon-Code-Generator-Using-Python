@@ -201,8 +201,6 @@ The CSV contains columns: `Coupon Code`, `Created At`.
 - Persist to a database or add collision checks for very large volumes.
 - Customize character set or add readability rules.
 
-## License
-MIT — feel free to use and modify.
 
 
 ## THE OUTPUT
